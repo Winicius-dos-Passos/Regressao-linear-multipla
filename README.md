@@ -34,8 +34,8 @@ Este repositório foi criado como parte do desenvolvimento do meu portfólio em 
    ```bash
    git clone [https://github.com/Winicius-dos-Passos/Regressao-linear-multipla.git](https://github.com/Winicius-dos-Passos/Regressao-linear-multipla.git).
 
-2. Certifique-se de que o arquivo 'mt_cars.csv' esteja no mesmo diretório que o Notebook (ou faça o upload do arquivo caso esteja utilizando o Colab).
+2. Certifique-se de que o arquivo `mt_cars.csv` esteja no mesmo diretório que o Notebook (ou faça o upload do arquivo caso esteja utilizando o Colab).
 
-3. Instale as dependências necessárias, caso esteja rodando localmente ('pip install pandas numpy matplotlib scikit-learn statsmodels').
+3. Instale as dependências necessárias, caso esteja rodando localmente (`pip install pandas numpy matplotlib scikit-learn statsmodels`).
 
-4. Execute as células do 'Regressão_Linear_Multipla.ipynb' sequencialmente.
+4. Execute as células do `Regressão_Linear_Multipla.ipynb` sequencialmente.
